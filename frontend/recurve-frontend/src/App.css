@@ -7,10 +7,12 @@ body {
   margin: 0;
   padding: 0;
   background: #110307;
+  font-family: 'Courier';
 }
 
 h1 {
   color: #110307;
+  font-weight: bolder;
 }
 
 a {
