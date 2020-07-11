@@ -31,8 +31,8 @@ const Header = (props) => {
 export default Header
 
 const HeaderBox = styled.div`
-  background: #b7e4c7;
-  border-bottom: 4px solid #74c69d;
+  background: #eab4d5;
+  border-bottom: 4px solid #ad3768;
   margin-bottom: 32px;
   padding: 16px;
   display: flex;

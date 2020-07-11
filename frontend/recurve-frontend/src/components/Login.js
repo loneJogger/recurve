@@ -52,20 +52,20 @@ export default Login
 const LoginBox = styled.div`
   padding: 8px;
   margin: 8px;
-  border: 4px solid #74c69d;
+  border: 4px solid #ad3768;
   border-radius: 4px;
-  background: #b7e4c7;
-  color: #081c15;
+  background: #eab4d5;
+  color: #110307;
 `
 
 const loginInput = {
-  background: '#d8f3dc',
-  border: '2px solid #081c15',
-  color: '#1b4332'
+  background: '#f6d8f0',
+  border: '2px solid #110307',
+  color: '#5a1b33'
 }
 
 const loginButton = {
-  backgroundColor: '#74c69d',
-  borderColor: '#74c69d',
-  color: '#081c15'
+  backgroundColor: '#ad3768',
+  borderColor: '#ad3768',
+  color: '#110307'
 }

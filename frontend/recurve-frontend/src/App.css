@@ -1,23 +1,23 @@
 .App {
-  
+
 }
 
 body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: #081c15;
+  background: #110307;
 }
 
 h1 {
-  color: #081c15;
+  color: #110307;
 }
 
 a {
-  color: #081c15;
+  color: #110307;
   text-decoration: none;
 }
 
 a:hover {
-  color: #1b4332;
+  color: #86284f;
 }

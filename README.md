@@ -27,3 +27,4 @@
 - https://coolors.co/22223b-4a4e69-9a8c98-c9ada7-f2e9e4
 - https://coolors.co/70d6ff-ff70a6-ff9770-ffd670-e9ff70
 - https://coolors.co/d8f3dc-b7e4c7-95d5b2-74c69d-52b788-40916c-2d6a4f-1b4332-081c15
+- https://coolors.co/f6d8f0-eab4d5-e192bb-d672a1-cb4d84-ad3768-86284f-4f172d-110307

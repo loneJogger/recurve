@@ -13,8 +13,8 @@ const Footer = () => {
 export default Footer
 
 const FooterBox = styled.div`
-background: #b7e4c7;
-border-top: 4px solid #74c69d;
+background: #eab4d5;
+border-top: 4px solid #ad3768;
 margin-top: 32px;
 padding: 16px;
 display: flex;
