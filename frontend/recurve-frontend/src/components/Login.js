@@ -15,6 +15,10 @@ const Login = () => {
     setPassword(event.target.value)
   }
 
+  const handleLogin = (event) => {
+    event.preventDefault()
+  }
+
   return (
     <LoginBox>
       <h2>Login</h2>
@@ -40,7 +44,7 @@ const Login = () => {
           />
         </FormGroup>
         <div style={{display: 'flex', justifyContent: 'flex-end'}}>
-          <Button style={loginButton} >Login</Button>
+          <Button style={loginButton} onClick={handleLogin}>Login</Button>
         </div>
       </Form>
     </LoginBox>
