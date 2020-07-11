@@ -1,6 +1,5 @@
 import React from 'react'
-import { Container, Col, Row, Form, FormGroup, Button, Label, Input } from 'reactstrap'
-import styled from 'styled-components'
+import { Container, Row, Col } from 'reactstrap'
 
 import Login from '../components/Login'
 
