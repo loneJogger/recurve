@@ -1,3 +1,25 @@
 .App {
-  background: #DFE0F4;
+
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #110307;
+  font-family: 'Courier';
+}
+
+h1 {
+  color: #110307;
+  font-weight: bolder;
+}
+
+a {
+  color: #110307;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #86284f;
 }
